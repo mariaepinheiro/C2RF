@@ -1,6 +1,6 @@
 # Mixed-Integer Linear Optimization for Cardinality- Constrained Random Forest
 
-This repository contains all the information needed to reproduce the results for the paper __________ authored by Jan Pablo Burgard, Maria Eduarda Pinheiro, Martin Schmidt.
+This repository contains all the information needed to reproduce the results for the paper [Mixed-Integer Linear Optimization for Cardinality-Constrained Random Forests]( https://optimization-online.org/?p=26428) authored by Jan Pablo Burgard, Maria Eduarda Pinheiro, Martin Schmidt.
 
 # Abstract
 
